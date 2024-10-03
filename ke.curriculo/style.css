@@ -1,0 +1,64 @@
+#foto{
+ width: 155px;
+height: 145px;
+border-radius: 50%;
+margin-top: 2%;
+display: flex;
+}
+
+.cabecalho{
+border-color: black;
+border-width: 6px;
+border-style: groove;
+width: 60%;
+display: block;
+background-image: url(fundo.jpeg);
+} 
+
+.info{
+  font-family: Arial, Helvetica, sans-serif;
+align-items: center;
+line-height: 180%;
+letter-spacing: 2px;
+
+}
+
+#nome{
+ font-size: 225px;
+
+}
+
+.sobre{
+  border-color: black;
+  border-width: 6px;
+  border-style: groove;
+  width: 60%;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+align-items: center;
+line-height: 180%;
+}
+
+.cursos{
+  border-color: black;
+  border-width: 6px;
+  border-style: groove;
+  width: 60%;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+align-items: center;
+line-height: 180%;
+letter-spacing: 2px;
+}
+
+.xp{
+  border-color: black;
+  border-width: 6px;
+  border-style: groove;
+  width: 60%;
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+align-items: center;
+line-height: 180%;
+letter-spacing: 2px;
+}
